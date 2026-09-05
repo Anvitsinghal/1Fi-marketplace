@@ -1,0 +1,736 @@
+[
+  {
+    "id": "prod-iphone-17-pro-max",
+    "slug": "iphone-17-pro-max",
+    "brand": "Apple",
+    "name": "iPhone 17 Pro Max",
+    "description": "Apple's ultimate titanium powerhouse with 6.9-inch Super Retina XDR display, A19 Pro silicon, 48MP periscope telephoto, and all-day battery life.",
+    "badge": "Editor's Choice",
+    "variants": [
+      {
+        "id": "var-ip17pm-space-black-256",
+        "variant_name": "iPhone 17 Pro Max Space Black 256GB",
+        "color": "Space Black",
+        "color_hex": "#1c1d1f",
+        "storage": "256 GB",
+        "price": 149900,
+        "original_price": 159900,
+        "downpayment": 22485,
+        "ram": "8 GB",
+        "image_url": "/images/iphone-17-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-ip17pm-6m", "tenure_months": 6, "monthly_amount": 21235, "interest_rate": 0, "cashback_amount": 4000, "is_zero_cost": true },
+          { "id": "emi-ip17pm-9m", "tenure_months": 9, "monthly_amount": 14157, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-ip17pm-12m", "tenure_months": 12, "monthly_amount": 10617, "interest_rate": 0, "cashback_amount": 1500, "is_zero_cost": true },
+          { "id": "emi-ip17pm-24m", "tenure_months": 24, "monthly_amount": 5309, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-ip17pm-natural-titanium-512",
+        "variant_name": "iPhone 17 Pro Max Natural Titanium 512GB",
+        "color": "Natural Titanium",
+        "color_hex": "#9c968f",
+        "storage": "512 GB",
+        "price": 169900,
+        "original_price": 179900,
+        "downpayment": 25485,
+        "ram": "8 GB",
+        "image_url": "/images/iphone-17-pro-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-ip17pm-512-6m", "tenure_months": 6, "monthly_amount": 24069, "interest_rate": 0, "cashback_amount": 4000, "is_zero_cost": true },
+          { "id": "emi-ip17pm-512-12m", "tenure_months": 12, "monthly_amount": 12035, "interest_rate": 0, "cashback_amount": 1500, "is_zero_cost": true },
+          { "id": "emi-ip17pm-512-24m", "tenure_months": 24, "monthly_amount": 6017, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-ip17pm-desert-titanium-1tb",
+        "variant_name": "iPhone 17 Pro Max Desert Titanium 1TB",
+        "color": "Desert Titanium",
+        "color_hex": "#bfa28d",
+        "storage": "1 TB",
+        "price": 189900,
+        "original_price": 199900,
+        "downpayment": 28485,
+        "ram": "8 GB",
+        "image_url": "/images/iphone-17-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-ip17pm-1tb-6m", "tenure_months": 6, "monthly_amount": 26903, "interest_rate": 0, "cashback_amount": 5000, "is_zero_cost": true },
+          { "id": "emi-ip17pm-1tb-12m", "tenure_months": 12, "monthly_amount": 13451, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-iphone-17-pro",
+    "slug": "iphone-17-pro",
+    "brand": "Apple",
+    "name": "iPhone 17 Pro",
+    "description": "Apple's next-generation flagship smartphone powered by the A19 Pro bionic chip, pro-level camera system, and titanium chassis.",
+    "badge": "Flagship 2026",
+    "variants": [
+      {
+        "id": "var-iphone-deep-blue-256",
+        "variant_name": "iPhone 17 Pro Deep Blue 256GB",
+        "color": "Deep Blue",
+        "color_hex": "#253b59",
+        "storage": "256 GB",
+        "price": 129900,
+        "original_price": 139900,
+        "downpayment": 19485,
+        "ram": "8 GB",
+        "image_url": "/images/iphone-17-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-ip17-6m", "tenure_months": 6, "monthly_amount": 18402, "interest_rate": 0, "cashback_amount": 3000, "is_zero_cost": true },
+          { "id": "emi-ip17-9m", "tenure_months": 9, "monthly_amount": 12268, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-ip17-12m", "tenure_months": 12, "monthly_amount": 9201, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true },
+          { "id": "emi-ip17-24m", "tenure_months": 24, "monthly_amount": 4601, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-iphone-natural-titanium-512",
+        "variant_name": "iPhone 17 Pro Natural Titanium 512GB",
+        "color": "Natural Titanium",
+        "color_hex": "#9c968f",
+        "storage": "512 GB",
+        "price": 149900,
+        "original_price": 159900,
+        "downpayment": 22485,
+        "ram": "8 GB",
+        "image_url": "/images/iphone-17-pro-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-ip17-512-6m", "tenure_months": 6, "monthly_amount": 21235, "interest_rate": 0, "cashback_amount": 3000, "is_zero_cost": true },
+          { "id": "emi-ip17-512-12m", "tenure_months": 12, "monthly_amount": 10617, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-iphone-silver-128",
+        "variant_name": "iPhone 17 Pro Silver 128GB",
+        "color": "Silver",
+        "color_hex": "#e5e5ea",
+        "storage": "128 GB",
+        "price": 119900,
+        "original_price": 129900,
+        "downpayment": 17985,
+        "ram": "8 GB",
+        "image_url": "/images/iphone-17-pro-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-ip17-128-6m", "tenure_months": 6, "monthly_amount": 16985, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-ip17-128-12m", "tenure_months": 12, "monthly_amount": 8493, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-iphone-17",
+    "slug": "iphone-17",
+    "brand": "Apple",
+    "name": "iPhone 17",
+    "description": "Vibrant and capable featuring the A19 chip, dual 48MP camera setup with 2x optical zoom, and 120Hz ProMotion display.",
+    "badge": "Trending",
+    "variants": [
+      {
+        "id": "var-ip17-lavender-128",
+        "variant_name": "iPhone 17 Lavender 128GB",
+        "color": "Lavender Purple",
+        "color_hex": "#c8b6e2",
+        "storage": "128 GB",
+        "price": 79900,
+        "original_price": 84900,
+        "downpayment": 11985,
+        "ram": "6 GB",
+        "image_url": "/images/iphone-17-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-ip17std-6m", "tenure_months": 6, "monthly_amount": 11319, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-ip17std-9m", "tenure_months": 9, "monthly_amount": 7546, "interest_rate": 0, "cashback_amount": 1000, "is_zero_cost": true },
+          { "id": "emi-ip17std-12m", "tenure_months": 12, "monthly_amount": 5660, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-ip17-ultramarine-256",
+        "variant_name": "iPhone 17 Ultramarine 256GB",
+        "color": "Ultramarine Blue",
+        "color_hex": "#304382",
+        "storage": "256 GB",
+        "price": 89900,
+        "original_price": 94900,
+        "downpayment": 13485,
+        "ram": "6 GB",
+        "image_url": "/images/iphone-17-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-ip17std-256-6m", "tenure_months": 6, "monthly_amount": 12735, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-ip17std-256-12m", "tenure_months": 12, "monthly_amount": 6368, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-iphone-16",
+    "slug": "iphone-16",
+    "brand": "Apple",
+    "name": "iPhone 16",
+    "description": "Apple Intelligence ready with the A18 chip, Camera Control button, and dual 48MP Fusion camera system.",
+    "badge": "Popular",
+    "variants": [
+      {
+        "id": "var-ip16-teal-128",
+        "variant_name": "iPhone 16 Teal 128GB",
+        "color": "Teal",
+        "color_hex": "#8abeb7",
+        "storage": "128 GB",
+        "price": 69900,
+        "original_price": 79900,
+        "downpayment": 10485,
+        "ram": "8 GB",
+        "image_url": "/images/iphone-17-pro-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-ip16-6m", "tenure_months": 6, "monthly_amount": 9902, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-ip16-12m", "tenure_months": 12, "monthly_amount": 4951, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-ip16-pink-256",
+        "variant_name": "iPhone 16 Pink 256GB",
+        "color": "Soft Pink",
+        "color_hex": "#ebc6ce",
+        "storage": "256 GB",
+        "price": 79900,
+        "original_price": 89900,
+        "downpayment": 11985,
+        "ram": "8 GB",
+        "image_url": "/images/iphone-17-pro-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-ip16-256-6m", "tenure_months": 6, "monthly_amount": 11319, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-ip16-256-12m", "tenure_months": 12, "monthly_amount": 5660, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-galaxy-s25-ultra",
+    "slug": "galaxy-s25-ultra",
+    "brand": "Samsung",
+    "name": "Galaxy S25 Ultra",
+    "description": "Peak Galaxy AI with Snapdragon 8 Elite, 200MP camera, titanium frame, and built-in S-Pen productivity.",
+    "badge": "Best Seller",
+    "variants": [
+      {
+        "id": "var-s25-titanium-black-256",
+        "variant_name": "Galaxy S25 Ultra Titanium Black 256GB",
+        "color": "Titanium Black",
+        "color_hex": "#2e2e30",
+        "storage": "256 GB",
+        "price": 134999,
+        "original_price": 144999,
+        "downpayment": 20249,
+        "ram": "12 GB",
+        "image_url": "/images/galaxy-s25-ultra.jpg",
+        "emi_plans": [
+          { "id": "emi-s25-6m", "tenure_months": 6, "monthly_amount": 19125, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-s25-9m", "tenure_months": 9, "monthly_amount": 12750, "interest_rate": 0, "cashback_amount": 1500, "is_zero_cost": true },
+          { "id": "emi-s25-12m", "tenure_months": 12, "monthly_amount": 9562, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true },
+          { "id": "emi-s25-24m", "tenure_months": 24, "monthly_amount": 4781, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-s25-titanium-silver-512",
+        "variant_name": "Galaxy S25 Ultra Titanium Silver 512GB",
+        "color": "Titanium Silver",
+        "color_hex": "#d3d5d9",
+        "storage": "512 GB",
+        "price": 149999,
+        "original_price": 159999,
+        "downpayment": 22499,
+        "ram": "12 GB",
+        "image_url": "/images/galaxy-s25-ultra-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-s25-512-6m", "tenure_months": 6, "monthly_amount": 21250, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-s25-512-12m", "tenure_months": 12, "monthly_amount": 10625, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-s25-titanium-jade-1tb",
+        "variant_name": "Galaxy S25 Ultra Titanium Jade 1TB",
+        "color": "Titanium Jade",
+        "color_hex": "#5e7168",
+        "storage": "1 TB",
+        "price": 169999,
+        "original_price": 179999,
+        "downpayment": 25499,
+        "ram": "16 GB",
+        "image_url": "/images/galaxy-s25-ultra.jpg",
+        "emi_plans": [
+          { "id": "emi-s25-1tb-6m", "tenure_months": 6, "monthly_amount": 24083, "interest_rate": 0, "cashback_amount": 3000, "is_zero_cost": true },
+          { "id": "emi-s25-1tb-12m", "tenure_months": 12, "monthly_amount": 12041, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-galaxy-s25-plus",
+    "slug": "galaxy-s25-plus",
+    "brand": "Samsung",
+    "name": "Galaxy S25+",
+    "description": "Premium 6.7-inch Dynamic AMOLED 2X with Snapdragon 8 Elite, 45W fast charging, and pro-grade triple camera.",
+    "badge": "New Release",
+    "variants": [
+      {
+        "id": "var-s25p-cobalt-violet-256",
+        "variant_name": "Galaxy S25+ Cobalt Violet 256GB",
+        "color": "Cobalt Violet",
+        "color_hex": "#4b3c5a",
+        "storage": "256 GB",
+        "price": 99999,
+        "original_price": 109999,
+        "downpayment": 14999,
+        "ram": "12 GB",
+        "image_url": "/images/galaxy-s25-ultra-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-s25p-6m", "tenure_months": 6, "monthly_amount": 14166, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-s25p-12m", "tenure_months": 12, "monthly_amount": 7083, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-s25p-onyx-black-512",
+        "variant_name": "Galaxy S25+ Onyx Black 512GB",
+        "color": "Onyx Black",
+        "color_hex": "#1e1e1e",
+        "storage": "512 GB",
+        "price": 111999,
+        "original_price": 121999,
+        "downpayment": 16799,
+        "ram": "12 GB",
+        "image_url": "/images/galaxy-s25-ultra.jpg",
+        "emi_plans": [
+          { "id": "emi-s25p-512-6m", "tenure_months": 6, "monthly_amount": 15866, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-s25p-512-12m", "tenure_months": 12, "monthly_amount": 7933, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-galaxy-z-fold-6",
+    "slug": "galaxy-z-fold-6",
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold 6",
+    "description": "Unfold desktop-class productivity with a slim, durable dual-screen foldable design and integrated multi-window Galaxy AI.",
+    "badge": "Foldable King",
+    "variants": [
+      {
+        "id": "var-zfold6-silver-shadow-256",
+        "variant_name": "Galaxy Z Fold 6 Silver Shadow 256GB",
+        "color": "Silver Shadow",
+        "color_hex": "#b8bac0",
+        "storage": "256 GB",
+        "price": 164999,
+        "original_price": 174999,
+        "downpayment": 24749,
+        "ram": "12 GB",
+        "image_url": "/images/galaxy-s25-ultra-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-zfold6-6m", "tenure_months": 6, "monthly_amount": 23375, "interest_rate": 0, "cashback_amount": 4000, "is_zero_cost": true },
+          { "id": "emi-zfold6-12m", "tenure_months": 12, "monthly_amount": 11687, "interest_rate": 0, "cashback_amount": 1500, "is_zero_cost": true },
+          { "id": "emi-zfold6-24m", "tenure_months": 24, "monthly_amount": 5843, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-zfold6-navy-512",
+        "variant_name": "Galaxy Z Fold 6 Navy 512GB",
+        "color": "Navy Blue",
+        "color_hex": "#1d2a3d",
+        "storage": "512 GB",
+        "price": 176999,
+        "original_price": 186999,
+        "downpayment": 26549,
+        "ram": "12 GB",
+        "image_url": "/images/galaxy-s25-ultra.jpg",
+        "emi_plans": [
+          { "id": "emi-zfold6-512-6m", "tenure_months": 6, "monthly_amount": 25075, "interest_rate": 0, "cashback_amount": 4000, "is_zero_cost": true },
+          { "id": "emi-zfold6-512-12m", "tenure_months": 12, "monthly_amount": 12537, "interest_rate": 0, "cashback_amount": 1500, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-galaxy-z-flip-6",
+    "slug": "galaxy-z-flip-6",
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip 6",
+    "description": "Pocket-sized flex design with a 50MP camera, enlarged FlexWindow, and vapor chamber cooling for the first time.",
+    "badge": "Trendsetter",
+    "variants": [
+      {
+        "id": "var-zflip6-mint-256",
+        "variant_name": "Galaxy Z Flip 6 Mint 256GB",
+        "color": "Mint Green",
+        "color_hex": "#b4d8c8",
+        "storage": "256 GB",
+        "price": 109999,
+        "original_price": 119999,
+        "downpayment": 16499,
+        "ram": "12 GB",
+        "image_url": "/images/galaxy-s25-ultra-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-zflip6-6m", "tenure_months": 6, "monthly_amount": 15583, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-zflip6-12m", "tenure_months": 12, "monthly_amount": 7791, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-zflip6-silver-512",
+        "variant_name": "Galaxy Z Flip 6 Silver Shadow 512GB",
+        "color": "Silver Shadow",
+        "color_hex": "#c2c4cb",
+        "storage": "512 GB",
+        "price": 121999,
+        "original_price": 131999,
+        "downpayment": 18299,
+        "ram": "12 GB",
+        "image_url": "/images/galaxy-s25-ultra.jpg",
+        "emi_plans": [
+          { "id": "emi-zflip6-512-6m", "tenure_months": 6, "monthly_amount": 17283, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-zflip6-512-12m", "tenure_months": 12, "monthly_amount": 8641, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-pixel-10-pro-xl",
+    "slug": "pixel-10-pro-xl",
+    "brand": "Google",
+    "name": "Pixel 10 Pro XL",
+    "description": "Google's crowning flagship with massive 6.8-inch Super Actua display, Tensor G5 AI accelerator, and 30x Super Res Zoom.",
+    "badge": "Top Rated",
+    "variants": [
+      {
+        "id": "var-px10pxl-porcelain-256",
+        "variant_name": "Pixel 10 Pro XL Porcelain 256GB",
+        "color": "Porcelain White",
+        "color_hex": "#f1eee9",
+        "storage": "256 GB",
+        "price": 124999,
+        "original_price": 134999,
+        "downpayment": 18749,
+        "ram": "16 GB",
+        "image_url": "/images/pixel-10-pro-porcelain.jpg",
+        "emi_plans": [
+          { "id": "emi-px10xl-6m", "tenure_months": 6, "monthly_amount": 17708, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-px10xl-9m", "tenure_months": 9, "monthly_amount": 11805, "interest_rate": 0, "cashback_amount": 1500, "is_zero_cost": true },
+          { "id": "emi-px10xl-12m", "tenure_months": 12, "monthly_amount": 8854, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-px10pxl-obsidian-512",
+        "variant_name": "Pixel 10 Pro XL Obsidian 512GB",
+        "color": "Obsidian Black",
+        "color_hex": "#1d1d1f",
+        "storage": "512 GB",
+        "price": 139999,
+        "original_price": 149999,
+        "downpayment": 20999,
+        "ram": "16 GB",
+        "image_url": "/images/pixel-10-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-px10xl-512-6m", "tenure_months": 6, "monthly_amount": 19833, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-px10xl-512-12m", "tenure_months": 12, "monthly_amount": 9916, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-pixel-10-pro",
+    "slug": "pixel-10-pro",
+    "brand": "Google",
+    "name": "Pixel 10 Pro",
+    "description": "Google's most advanced AI-first smartphone featuring Tensor G5, studio-grade computational photography, and 7 years of OS updates.",
+    "badge": "Gemini Inside",
+    "variants": [
+      {
+        "id": "var-pixel10-obsidian-128",
+        "variant_name": "Pixel 10 Pro Obsidian 128GB",
+        "color": "Obsidian",
+        "color_hex": "#1f2022",
+        "storage": "128 GB",
+        "price": 109999,
+        "original_price": 119999,
+        "downpayment": 16499,
+        "ram": "16 GB",
+        "image_url": "/images/pixel-10-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-px10-6m", "tenure_months": 6, "monthly_amount": 15583, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-px10-9m", "tenure_months": 9, "monthly_amount": 10388, "interest_rate": 0, "cashback_amount": 1000, "is_zero_cost": true },
+          { "id": "emi-px10-12m", "tenure_months": 12, "monthly_amount": 7791, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-pixel10-porcelain-256",
+        "variant_name": "Pixel 10 Pro Porcelain 256GB",
+        "color": "Porcelain",
+        "color_hex": "#eae6df",
+        "storage": "256 GB",
+        "price": 119999,
+        "original_price": 129999,
+        "downpayment": 17999,
+        "ram": "16 GB",
+        "image_url": "/images/pixel-10-pro-porcelain.jpg",
+        "emi_plans": [
+          { "id": "emi-px10-256-6m", "tenure_months": 6, "monthly_amount": 17000, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-px10-256-12m", "tenure_months": 12, "monthly_amount": 8500, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-pixel10-hazel-512",
+        "variant_name": "Pixel 10 Pro Hazel 512GB",
+        "color": "Hazel Gray",
+        "color_hex": "#6c7068",
+        "storage": "512 GB",
+        "price": 134999,
+        "original_price": 144999,
+        "downpayment": 20249,
+        "ram": "16 GB",
+        "image_url": "/images/pixel-10-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-px10-512-6m", "tenure_months": 6, "monthly_amount": 19125, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-px10-512-12m", "tenure_months": 12, "monthly_amount": 9562, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-pixel-9",
+    "slug": "pixel-9",
+    "brand": "Google",
+    "name": "Pixel 9",
+    "description": "Essential Google AI with Actua display, 50MP main camera with Macro Focus, and Magic Editor capabilities.",
+    "badge": "Great Value",
+    "variants": [
+      {
+        "id": "var-px9-peony-128",
+        "variant_name": "Pixel 9 Peony 128GB",
+        "color": "Peony Coral",
+        "color_hex": "#df7882",
+        "storage": "128 GB",
+        "price": 79999,
+        "original_price": 84999,
+        "downpayment": 11999,
+        "ram": "12 GB",
+        "image_url": "/images/pixel-10-pro-porcelain.jpg",
+        "emi_plans": [
+          { "id": "emi-px9-6m", "tenure_months": 6, "monthly_amount": 11333, "interest_rate": 0, "cashback_amount": 1500, "is_zero_cost": true },
+          { "id": "emi-px9-12m", "tenure_months": 12, "monthly_amount": 5666, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-px9-obsidian-256",
+        "variant_name": "Pixel 9 Obsidian 256GB",
+        "color": "Obsidian",
+        "color_hex": "#202124",
+        "storage": "256 GB",
+        "price": 89999,
+        "original_price": 94999,
+        "downpayment": 13499,
+        "ram": "12 GB",
+        "image_url": "/images/pixel-10-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-px9-256-6m", "tenure_months": 6, "monthly_amount": 12750, "interest_rate": 0, "cashback_amount": 1500, "is_zero_cost": true },
+          { "id": "emi-px9-256-12m", "tenure_months": 12, "monthly_amount": 6375, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-oneplus-13",
+    "slug": "oneplus-13",
+    "brand": "OnePlus",
+    "name": "OnePlus 13",
+    "description": "Never Settle performance driven by Snapdragon 8 Elite, 6000mAh Glacier battery, 100W SUPERVOOC charging, and 2K Oriental display.",
+    "badge": "Power Beast",
+    "variants": [
+      {
+        "id": "var-op13-midnight-ocean-256",
+        "variant_name": "OnePlus 13 Midnight Ocean 256GB",
+        "color": "Midnight Ocean",
+        "color_hex": "#1a2a3a",
+        "storage": "256 GB",
+        "price": 69999,
+        "original_price": 74999,
+        "downpayment": 10499,
+        "ram": "12 GB",
+        "image_url": "/images/galaxy-s25-ultra.jpg",
+        "emi_plans": [
+          { "id": "emi-op13-6m", "tenure_months": 6, "monthly_amount": 9916, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-op13-9m", "tenure_months": 9, "monthly_amount": 6611, "interest_rate": 0, "cashback_amount": 1000, "is_zero_cost": true },
+          { "id": "emi-op13-12m", "tenure_months": 12, "monthly_amount": 4958, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-op13-arctic-dawn-512",
+        "variant_name": "OnePlus 13 Arctic Dawn 512GB",
+        "color": "Arctic Dawn",
+        "color_hex": "#ebeef2",
+        "storage": "512 GB",
+        "price": 76999,
+        "original_price": 82999,
+        "downpayment": 11549,
+        "ram": "16 GB",
+        "image_url": "/images/galaxy-s25-ultra-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-op13-512-6m", "tenure_months": 6, "monthly_amount": 10908, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-op13-512-12m", "tenure_months": 12, "monthly_amount": 5454, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-oneplus-open",
+    "slug": "oneplus-open",
+    "brand": "OnePlus",
+    "name": "OnePlus Open",
+    "description": "Ultra-lightweight foldable with Hasselblad camera for mobile, Open Canvas multitasking, and invisible screen crease.",
+    "badge": "Design Award",
+    "variants": [
+      {
+        "id": "var-opopen-emerald-512",
+        "variant_name": "OnePlus Open Emerald Dusk 512GB",
+        "color": "Emerald Dusk",
+        "color_hex": "#2d4b3e",
+        "storage": "512 GB",
+        "price": 139999,
+        "original_price": 149999,
+        "downpayment": 20999,
+        "ram": "16 GB",
+        "image_url": "/images/galaxy-s25-ultra.jpg",
+        "emi_plans": [
+          { "id": "emi-opopen-6m", "tenure_months": 6, "monthly_amount": 19833, "interest_rate": 0, "cashback_amount": 3000, "is_zero_cost": true },
+          { "id": "emi-opopen-12m", "tenure_months": 12, "monthly_amount": 9916, "interest_rate": 0, "cashback_amount": 1000, "is_zero_cost": true },
+          { "id": "emi-opopen-24m", "tenure_months": 24, "monthly_amount": 4958, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-xiaomi-15-pro",
+    "slug": "xiaomi-15-pro",
+    "brand": "Xiaomi",
+    "name": "Xiaomi 15 Pro",
+    "description": "Co-engineered with Leica, featuring the 1-inch Light Fusion 900 sensor, Snapdragon 8 Elite, and ultra-durable Dragon Crystal glass.",
+    "badge": "Leica Camera",
+    "variants": [
+      {
+        "id": "var-mi15p-titanium-256",
+        "variant_name": "Xiaomi 15 Pro Titanium Gray 256GB",
+        "color": "Titanium Gray",
+        "color_hex": "#505255",
+        "storage": "256 GB",
+        "price": 79999,
+        "original_price": 86999,
+        "downpayment": 11999,
+        "ram": "12 GB",
+        "image_url": "/images/pixel-10-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-mi15p-6m", "tenure_months": 6, "monthly_amount": 11333, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-mi15p-12m", "tenure_months": 12, "monthly_amount": 5666, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-mi15p-spruce-green-512",
+        "variant_name": "Xiaomi 15 Pro Spruce Green 512GB",
+        "color": "Spruce Green",
+        "color_hex": "#3d4e43",
+        "storage": "512 GB",
+        "price": 89999,
+        "original_price": 96999,
+        "downpayment": 13499,
+        "ram": "16 GB",
+        "image_url": "/images/pixel-10-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-mi15p-512-6m", "tenure_months": 6, "monthly_amount": 12750, "interest_rate": 0, "cashback_amount": 2000, "is_zero_cost": true },
+          { "id": "emi-mi15p-512-12m", "tenure_months": 12, "monthly_amount": 6375, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-vivo-x200-pro",
+    "slug": "vivo-x200-pro",
+    "brand": "Vivo",
+    "name": "Vivo X200 Pro",
+    "description": "World-class mobile optics with ZEISS APO 200MP telephoto, Dimensity 9400 chipset, and 6000mAh BlueVolt battery.",
+    "badge": "ZEISS 200MP",
+    "variants": [
+      {
+        "id": "var-x200p-titanium-gray-256",
+        "variant_name": "Vivo X200 Pro Titanium Gray 256GB",
+        "color": "Titanium Gray",
+        "color_hex": "#4f5255",
+        "storage": "256 GB",
+        "price": 94999,
+        "original_price": 99999,
+        "downpayment": 14249,
+        "ram": "16 GB",
+        "image_url": "/images/galaxy-s25-ultra-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-x200p-6m", "tenure_months": 6, "monthly_amount": 13458, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-x200p-12m", "tenure_months": 12, "monthly_amount": 6729, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-x200p-moonlight-blue-512",
+        "variant_name": "Vivo X200 Pro Moonlight Blue 512GB",
+        "color": "Moonlight Blue",
+        "color_hex": "#27384a",
+        "storage": "512 GB",
+        "price": 104999,
+        "original_price": 111999,
+        "downpayment": 15749,
+        "ram": "16 GB",
+        "image_url": "/images/galaxy-s25-ultra.jpg",
+        "emi_plans": [
+          { "id": "emi-x200p-512-6m", "tenure_months": 6, "monthly_amount": 14875, "interest_rate": 0, "cashback_amount": 2500, "is_zero_cost": true },
+          { "id": "emi-x200p-512-12m", "tenure_months": 12, "monthly_amount": 7437, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-iqoo-13",
+    "slug": "iqoo-13",
+    "brand": "iQOO",
+    "name": "iQOO 13",
+    "description": "Unmatched gaming performance with 2K 144Hz OLED, Q2 dedicated supercomputing gaming chip, and monster 6150mAh battery.",
+    "badge": "Fast & Furious",
+    "variants": [
+      {
+        "id": "var-iqoo13-legend-white-256",
+        "variant_name": "iQOO 13 Legend White 256GB",
+        "color": "Legend White",
+        "color_hex": "#f5f6f8",
+        "storage": "256 GB",
+        "price": 54999,
+        "original_price": 59999,
+        "downpayment": 8249,
+        "ram": "12 GB",
+        "image_url": "/images/iphone-17-pro-silver.jpg",
+        "emi_plans": [
+          { "id": "emi-iqoo13-6m", "tenure_months": 6, "monthly_amount": 7791, "interest_rate": 0, "cashback_amount": 1500, "is_zero_cost": true },
+          { "id": "emi-iqoo13-9m", "tenure_months": 9, "monthly_amount": 5194, "interest_rate": 0, "cashback_amount": 1000, "is_zero_cost": true },
+          { "id": "emi-iqoo13-12m", "tenure_months": 12, "monthly_amount": 3895, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      },
+      {
+        "id": "var-iqoo13-alpha-black-512",
+        "variant_name": "iQOO 13 Alpha Black 512GB",
+        "color": "Alpha Black",
+        "color_hex": "#1a1a1c",
+        "storage": "512 GB",
+        "price": 61999,
+        "original_price": 66999,
+        "downpayment": 9299,
+        "ram": "16 GB",
+        "image_url": "/images/iphone-17-pro.jpg",
+        "emi_plans": [
+          { "id": "emi-iqoo13-512-6m", "tenure_months": 6, "monthly_amount": 8783, "interest_rate": 0, "cashback_amount": 1500, "is_zero_cost": true },
+          { "id": "emi-iqoo13-512-12m", "tenure_months": 12, "monthly_amount": 4391, "interest_rate": 0, "cashback_amount": 0, "is_zero_cost": true }
+        ]
+      }
+    ]
+  }
+]
